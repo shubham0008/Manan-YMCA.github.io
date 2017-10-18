@@ -1,2 +1,2 @@
 # manan.github.io
-Club Website
+Coding Society Website
